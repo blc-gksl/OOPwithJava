@@ -1,0 +1,45 @@
+001_15,60_PTT Gönderi Takip_RH127326896TR
+002_19,65_Komponentci_usb dişi konnektör
+003_26,90_PTT Gönderi Takip_RE26609425CN
+004_16,98_PTT Gönderi Takip_RH125082706TR
+005_553,66_F1DEPO_batarya 4s 5ah
+006_81,51_motoRobit_18n11 pil yuvası anahtar
+007_10,28_Yurtiçi Kargo_602678060077
+008_54,74_RobitShop_XT-60 Konnektör
+009_482,80_PROMODEL_ESC
+010_214,48_PROMODEL_Pervane
+011_54,96_efix_Kablo Soyucu
+012_94,07_Torima_Duracell Pil
+013_16,80_ibt grup_USB Kablosu
+014_46,86_EINT-EL_Kablolar
+015_96,02_EINT-EL_Kablo Bağı ve Servo
+016_44,90_KayaKırtasiye_ahşap yapıştırıcı
+017_16,00_ahşap yuvarlak çubuk
+018_43,20_Maketonya_balsa levha
+019_214,48_Proton_balsa
+020_303,66_robotzade_batarya şarj aleti
+021_27,90_CanCanSaat_şarj aleti
+022_379,00_SM600
+023_34,48_galvaniz tel
+024_67,80_motoRobit_gerilim bölücü
+025_18,90_Venüs_hdmi kablo
+026_31,90_AOÜ_kontraplak
+027_69,99_ekinoks_lehim
+028_379,90_YH_matkap
+029_29,95_AE_micro hdmi dönüştürücü
+030_30,50_hobi24_plastik küre
+031_214,10_PROMODEL_promodel
+032_51,65_Robotizmo_rpi soğutucu
+033_401,86_EINT-EL_rpi
+034_53,73_hepsiburada_sd kart
+035_16,86_EINT-EL_servo
+036_121,48_EINT-EL_servo-silikon
+037_42,50_diyotlab_servo
+038_99,80_silikon tabancası
+039_19,81_EnesE_USB Kablo
+040_42,57_HDMI to VGA
+041_82,00_GÜLERYÜZ_testere
+042_379,00_thk_R C Simulator
+043_30,10_PROMODEL_ön takım yön kolu
+044_2879,80_hobbyking_motor
+045_282,00_hobbyking_servo

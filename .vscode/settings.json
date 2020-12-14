@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "edu/duke/apache-csv.jar",
+        "edu/duke/courserajava.jar"
+    ]
+}
